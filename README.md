@@ -1,4 +1,4 @@
 prueba
 ======
 
-Este es un proyecto de pruebas
+Este es un proyecto de _pruebas_
